@@ -1,0 +1,9 @@
+
+.element.input{
+    padding: 0.6em;
+    font-size: 1em;
+    margin: 0.2em;
+}
+.element.input:focus{
+    border-color: skyblue;
+}
