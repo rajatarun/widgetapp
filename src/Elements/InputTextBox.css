@@ -1,8 +1,9 @@
 
 .element.input{
     padding: 0.6em;
-    font-size: 1em;
+    font-size: 1.6em;
     margin: 0.2em;
+    width: 100%;
 }
 .element.input:focus{
     border-color: skyblue;
